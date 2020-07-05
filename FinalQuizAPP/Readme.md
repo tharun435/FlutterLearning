@@ -1,10 +1,10 @@
-<h1> Basic Quix App Developed using Flutter </h1>
+<h1> Final App Developed using Flutter </h1>
 
 >Results
 
 <div>
 
-<img src='Images/1.jpg' height=250> 
+<img src='Images/1.jpg' height=250 > 
 
 <img src='Images/2.jpg' height=250>
 
